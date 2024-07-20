@@ -1,0 +1,67 @@
+.card-hero {
+    top: 40%;
+    left: 60%;
+}
+
+.sec-4 {
+    background-color: rgba(249, 251, 254, 1);
+}
+
+.img1 {
+    top: 6%;
+    left: 8%;
+}
+
+.img2 {
+    top: 18%;
+    left: 17%;
+}
+
+.img3 {
+    top: 60%;
+    left: 10%;
+}
+
+.img4 {
+    top: 50%;
+    left: 25%;
+}
+
+.img5 {
+    top: 22%;
+    left: 70%;
+}
+
+.img6 {
+    top: 48%;
+    left: 65%;
+}
+
+.img7 {
+    top: 6%;
+    left: 83%;
+}
+
+.img8 {
+    top: 45%;
+    left: 82%;
+}
+
+
+.sec-5 {
+    background-color: rgba(15, 42, 71, 1);
+}
+
+.hover{
+    transition: 1s;
+}
+
+.hover:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    box-shadow: 2px 2px 4px ;
+}
+
+.border-herocard{
+    box-shadow: 1px 1px 2px 1px rgb(29, 26, 26);
+}
